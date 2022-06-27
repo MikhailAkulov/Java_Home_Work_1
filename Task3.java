@@ -5,7 +5,7 @@
 //- команда 1 (к1): а + c
 //- команда 2 (к2): a * d
 
-public class Task003 {
+public class Task3 {
     public static void main(String[] args) {
         generate(1,7,1,2,"");
     }
